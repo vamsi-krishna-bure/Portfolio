@@ -116,6 +116,7 @@ body {
     top: 40%;
     height: 30vh;
     width: 5vw;
+    opacity: 0.5;
     border-radius: 10px 0px 0px 10px;
     background-color: #f44d2cee;
 }
