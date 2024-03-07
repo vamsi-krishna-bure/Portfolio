@@ -697,7 +697,6 @@ a {
     .home-content h3 {
         font-size: 1.5rem;
         line-height: 1rem;
-
         padding: 0.5rem;
     }
 
@@ -804,6 +803,24 @@ a {
     .navigation a button {
         width: auto;
         height: 30px;
+        padding: 0.5rem;
+    }
+
+    .home-content h1 {
+        font-size: 5rem;
+        line-height: 4.5rem;
+
+    }
+
+    .home-content h2 {
+        font-size: 5rem;
+        line-height: 4.5rem;
+
+    }
+
+    .home-content h3 {
+        font-size: 1rem;
+        line-height: 0.5rem;
         padding: 0.5rem;
     }
 
